@@ -1,3 +1,7 @@
+Link to public github repo
+https://github.com/ISHANK1313/WorkForceManagementAssignment/tree/master
+
+
 Bug Fixes Testing
 Bug 1: Task Re-assignment Creates Duplicates
 Before Testing:
